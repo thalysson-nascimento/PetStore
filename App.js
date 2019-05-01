@@ -1,7 +1,6 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
 
-import RootNavigation from './src/rootNavegation/RootNavigation';
+import RootNavigation from './src/rootNavigation/RootNavigation';
 
 export default class App extends React.Component {
     render() {
